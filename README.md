@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="./banner.png" alt="banner" width="100%" />
-</p>
-
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
   <summary><strong>A little bit about me</strong></summary>
