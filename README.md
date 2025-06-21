@@ -4,7 +4,7 @@
 
   <summary><strong>A little bit about me</strong></summary>
   <p align="center">
-    I’m Brennan Holmes, a Full‑Stack Developer from Canada.
+    I’m Brennan Holmes, a Software Developer from Canada.
   </p>
 
 <p><strong>📖 A little more detail:</strong></p>
