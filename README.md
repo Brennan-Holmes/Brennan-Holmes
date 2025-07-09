@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to My GitHub Profile</h1>
 
   <summary><strong>A little bit about me</strong></summary>
-  <p align="center">
+  <p>
     I’m Brennan Holmes, a Software Developer from Canada.
   </p>
 
