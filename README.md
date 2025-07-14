@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a full stack developer with experience building scalable applications and solving complex technical challenges. I love creating innovative solutions that blend functionality and user experience.
 
