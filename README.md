@@ -14,7 +14,7 @@ I'm a full stack developer from Canada with experience building scalable applica
 
 ---
 
-## 🎵 Beyond Code
+## Beyond Code
 
 When I'm not coding, you'll find me:
 - Competing in sports & tennis
