@@ -1,45 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Brennan Holmes
 
-<h1 align="center">Welcome to My GitHub Profile</h1>
+**Full Stack Software Developer** | NodeJS • JavaScript • Python • Java • Go • C++ • SQL • NextJS
 
-  <summary><strong>A little bit about me</strong></summary>
-  <p>
-    I’m Brennan Holmes, a Software Developer from Canada.
-  </p>
+---
 
-<p><strong>📖 A little more detail:</strong></p>
-<ul>
-  <li>I like to build web apps with Next.js, Tailwind CSS & Node.js</li>
-  <li>Learning machine‑learning & AI with Python (TensorFlow, PyTorch)</li>
-  <li>Comfortable with Docker, GitHub Actions & PostgreSQL</li>
-</ul>
+## 🚀 About Me
 
-<details>
-  <summary><strong>🔗 Social Media</strong></summary>
-  <p>
-    <a href="https://github.com/b-jholmes">GitHub</a> 
-    <a href="https://linkedin.com/in/brennan-holmes">LinkedIn</a>
-  </p>
-</details>
+I'm a full stack developer with experience building scalable applications and solving complex technical challenges. I love creating innovative solutions that blend functionality and user experience.
 
-  <summary><strong>Favorite languages & tools</strong></summary>
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" />
-  </p>
+- 🖥️ **Languages:** NodeJS, JavaScript, Python, Java, Go, C++, SQL
+- 🏆 **Favorite Project:** [Rhythmicity](https://github.com/Brennan-Holmes/Rhythmicity)
+- 🤝 **Open to Work:** Seeking new opportunities and collaborations
 
-<details>
-  <summary><strong>Other languages & tools</strong></summary>
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="24" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="24" />
-  </p>
-</details>
+---
+
+## 🎵 Beyond Code
+
+When I'm not coding, you'll find me:
+- Competing in sports & tennis
+- Producing music and exploring new sounds
+- Playing chess and sharpening my strategy skills
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [brennanholmes.com](https://www.brennanholmes.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brennan-holmes/)
+
+---
+
+*Let's build something great together!*
