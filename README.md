@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a full stack developer with experience building scalable applications and solving complex technical challenges. I love creating innovative solutions that blend functionality and user experience.
+I'm a full stack developer from Canada with experience building scalable applications and solving complex technical challenges. I love creating innovative solutions that blend functionality and user experience.
 
 - 🖥️ **Languages:** NodeJS, JavaScript, Python, Java, Go, C++, SQL
 - 🏆 **Favorite Project:** [Rhythmicity](https://github.com/Brennan-Holmes/Rhythmicity)
