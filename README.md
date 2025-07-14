@@ -23,7 +23,7 @@ When I'm not coding, you'll find me:
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - 🌐 [brennanholmes.com](https://www.brennanholmes.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/brennan-holmes/)
