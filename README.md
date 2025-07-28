@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brennan Holmes
 
-**Full Stack Software Developer** | NodeJS • JavaScript • ReactJS • NextJS • Python • Java • Go • C++ • SQL
+**Full Stack Software Developer** | NodeJS • JavaScript • ReactJS • NextJS • Python • Java • Go • C# • C++ • SQL
 
 ---
 
